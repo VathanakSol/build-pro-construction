@@ -2,7 +2,7 @@
 
 Modern static company website for a construction business, organized using a modular and standard folder structure.
 
-## Project Structure
+## Project Structures
 
 ```
 build-pro-construction/
